@@ -23,7 +23,7 @@
 					
    <key>url</key>
 					
-   <string>http://122.152.214.207:885/DownLoad/phone/ios/zsjjp.ipa</string>
+   <string>http://zss1.jiajiaplay.com:885/DownLoad/phone/ios/zsjjp.ipa</string>
 				
 </dict>
 				
@@ -35,7 +35,7 @@
 					
    <key>url</key>
 					
-   <string>http://122.152.214.207:885/DownLoad/phone/ios/displayImage_jjp.png</string>
+   <string>http://zss1.jiajiaplay.com:885/DownLoad/phone/ios/displayImage_jjp.png</string>
 				
 </dict>
 				
@@ -47,7 +47,7 @@
 					
    <key>url</key>
 					
-   <string>http://122.152.214.207:885/DownLoad/phone/ios/displayImage_jjplay.png</string>
+   <string>http://zss1.jiajiaplay.com:885/DownLoad/phone/ios/displayImage_jjplay.png</string>
 				
 </dict>
 			
